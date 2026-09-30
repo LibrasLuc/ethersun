@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 512 512"
+     width="512" height="512"
+     role="img" aria-label="Logo">
+  <rect width="512" height="512" rx="64" fill="#054533"/>
+  <g transform="translate(51.550 -9.350) scale(4.35)">
+    <path fill="#D7B368" d="M85 31 L75 30 L47 52 L40 46 L40 23 L47 18 L54 23 L54 40 L64 33 L64 19 L47 7 L30 19 L29 38 L19 30 L10 30 L9 102 L19 102 L20 43 L46 63 L74 43 L75 102 L85 102 Z"/>
+<path fill="#D7B368" d="M64 57 L54 65 L54 99 L47 104 L40 99 L40 65 L30 57 L30 102 L47 115 L64 102 Z"/>
+  </g>
+</svg>
