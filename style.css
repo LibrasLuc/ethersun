@@ -191,6 +191,9 @@ html{scroll-behavior:auto}
 .whatsapp-float svg{flex:none;overflow:visible}
 .final-cta .contact-links{align-items:center}
 .final-cta .contact-links a{display:inline-flex;align-items:center;justify-content:center;min-height:40px}
+.footer-main>div:first-child{flex:0 1 360px;min-width:0}
+.footer-main p{display:block;margin:12px 0 0;max-width:350px;line-height:1.7}
+.footer-main .brand{display:inline-flex;align-items:center;gap:12px}
 @media(prefers-reduced-motion:reduce){
  .intro.reduced-entry{display:grid;opacity:1;transition:opacity .45s ease}
  .intro.reduced-entry .intro-sun{opacity:0;transform:scale(.82);filter:none;transition:opacity .6s ease,transform .6s ease}
