@@ -16,7 +16,8 @@ const play=async()=>{
 }else play();
 const clients=[
  {name:'Benze',logo:'assets/logo benze.webp'},
- {name:'Math',logo:'assets/favicon, math.svg'}
+ {name:'Math',logo:'assets/favicon, math.svg'},
+ {name:'Empresa parceira',logo:'assets/image-transparent.png?v=1'}
 ];
 const track=document.querySelector('#client-track');
 for(let group=0;group<2;group++){
